@@ -1,7 +1,10 @@
-## Hi there 👋
+
+Hi 👋, I'm Abhishek Kumar Nayak
+
 
 <!--
-**manan-abhishek/manan-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**manan-abhishek/manA passionate Computer Science Engineering Student from India
+Currently studying at Lovely Professional University## Hi there 👋an-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
