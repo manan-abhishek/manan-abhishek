@@ -9,4 +9,4 @@
 
 
 
-C++ HTML5 Java JavaScript TypeScript Python Bootstrap Next JS React Native React MySQL MongoDB Prisma Firebase Framer Figma GitHub Git
+C++ HTML5 Java JavaScript Python Bootstrap Next JS React Native React MySQL MongoDB  Firebase Figma GitHub Git
