@@ -16,7 +16,7 @@
 ### 📫 How to reach me
 - 📧 Email: kumarabhi829121@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/abhishekkumarnayak11/
-- 🧑‍💻 GitHub: [github.com/manan-abhishek
+- 🧑‍💻 GitHub: github.com/manan-abhishek
 
 ---
 
