@@ -28,7 +28,7 @@
 ---
 
 ### ⚡ Fun Fact
-> “I love turning ideas into reality through clean and functional code.”
+> "I love turning ideas into reality through clean and functional code."
 
 
 ---
